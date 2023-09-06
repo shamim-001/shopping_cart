@@ -51,4 +51,4 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-This project is deployed on Vercel. You can access the live demo [here](https://shopping-cart-ashen-nine.vercel.app/).
+This project is deployed on Vercel. You can access the live demo <a href="https://shopping-cart-ashen-nine.vercel.app/" target="_blank">here</a>.
