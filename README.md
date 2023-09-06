@@ -1,6 +1,6 @@
 # Shopping Cart
 
-![Project Logo](![Alt text](image.png))
+![Project Logo](image.png)
 
 ## Overview
 
