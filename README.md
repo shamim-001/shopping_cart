@@ -1,6 +1,6 @@
 # Shopping Cart
 
-![Project Logo](image.png)
+![Project Image](image.png)
 
 ## Overview
 
