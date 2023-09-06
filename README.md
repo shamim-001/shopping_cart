@@ -39,15 +39,15 @@ To run this project locally, follow these steps:
    ```
 3. Install project dependencies:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 4. Start the development server:
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 ## Deployment
 
